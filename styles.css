@@ -4,7 +4,7 @@ footer{
 	height:300px;
 	color:white;
 }
-.media-icons{
+.icons{
 	display:flex;
 	padding-top:10px;
 	
@@ -13,7 +13,7 @@ footer{
 	font-size:40px;
 	padding:30px;
 }
-.icon{
+.media-icons{
 	height:60px;
 }
 
