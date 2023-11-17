@@ -1,10 +1,10 @@
 /* your code here */
 footer{
 	background-color:black;
-	height:300px;
 	color:white;
+
 }
-.icons{
+.icons-container{
 	display:flex;
 	padding-top:10px;
 	
@@ -13,8 +13,11 @@ footer{
 	font-size:40px;
 	padding:30px;
 }
-.media-icons{
-	height:60px;
+.icon{
+	height:50px;
+}
+.icons-container{
+	display:flex;
 }
 
 .top{
@@ -38,4 +41,7 @@ footer{
 	height:50px;
 	padding-left:30px;
 	padding-right:30px;
+}
+.media-icons{
+	display:flex;
 }
