@@ -4,11 +4,12 @@ footer{
 	color:white;
 
 }
-.icons-container{
+.media-icons{
 	display:flex;
 	padding-top:10px;
 	
 }
+
 .logo_name{
 	font-size:40px;
 	padding:30px;
@@ -41,7 +42,4 @@ footer{
 	height:50px;
 	padding-left:30px;
 	padding-right:30px;
-}
-.media-icons{
-	display:flex;
 }
